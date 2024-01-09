@@ -1,5 +1,5 @@
-/*  Final Version: 21
-    Programmers: Diego Vela, Ruben Garcia, Dan Solis
+/*
+    Programmer: Diego Vela
     Description: Simple Compiler Program.
 */
 #include <iostream>
