@@ -1,6 +1,6 @@
 # Compiler Project 2023
-  This program uses a parse table to check whether the language is accepted or not. It then converts the syntax to C++ to run.
-  Created by Diego Vela, Ruben Garcia, and Dan Solis for CSPC323 in Fall of 2023. 
+    This program uses a parse table to check whether the language is accepted or not. It then converts the syntax to C++ to run.
+    Created by Diego Vela, Ruben Garcia, and Dan Solis for CSPC323 in Fall of 2023. 
 
 ### Files
   - CompilerProject.cpp: Final Code Submission of project
